@@ -15,8 +15,8 @@ const CONTENT = {
     hero: {
       headline: "Linea pulita. Eleganza essenziale.",
       sub: "Un dayboat pensato per vivere il mare con autenticità e misura.",
-      heroImageMobile: "/images/hero-mobile.jpg",
-      heroImageDesktop: "/images/hero-desktop.jpg",
+      heroImageMobile: "/hero-mobile.jpg",
+      heroImageDesktop: "/hero-desktop.jpg",
     },
     story: {
       title: "Il progetto",
