@@ -5,7 +5,7 @@ const CONTENT = {
   brand: "Il Tuo Brand",
   payoff: "Made-to-Measure Dayboat, Italian Crafted",
   ctaPrimary: "Richiedi informazioni",
-  phone: "+39 000 000 0000",
+  phone: "+39 346 3760425",
   email: "info@iltuobrand.it",
   investorDocs: [
     { title: "Investor Presentation", href: "/docs/investor-presentation.pdf" },
