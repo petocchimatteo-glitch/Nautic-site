@@ -9,7 +9,6 @@ const CONTENT = {
   email: "info@iltuobrand.it",
   investorDocs: [
     { title: "Investor Presentation", href: "/docs/investor-presentation.pdf" },
-    { title: "Fact Sheet (1 pagina)", href: "/docs/fact-sheet.pdf" },
   ],
   sections: {
     hero: {
